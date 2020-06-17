@@ -1,6 +1,6 @@
 # React Posts
 
-![screen app](https://i.imgur.com/1aFWkHag.png)
+![screen app](https://i.imgur.com/ZLFa1kv.png)
 
 ### 🚀 Launch
 ```bash
