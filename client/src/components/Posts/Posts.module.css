@@ -1,0 +1,13 @@
+.error {
+  margin: 10px 0;
+}
+
+.Post {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.actions > svg {
+  cursor: pointer;
+}

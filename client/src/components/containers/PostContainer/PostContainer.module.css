@@ -1,0 +1,64 @@
+.PostContainer {
+  margin-top: 3rem;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.formInputs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.formInputs > input {
+  margin-top: 10px;
+  margin-right: 5px;
+  padding: 12px;
+  border-radius: 3px;
+  line-height: 1;
+  font-family: 'Inter', sans-serif;
+  border: 2px solid #ccc;
+  font-weight: 500;
+  outline: none;
+  width: 200px;
+}
+
+.formButton {
+  margin-top: 10px;
+  padding: 12px 45px;
+  height: 44px;
+  border: none;
+  background: #608bf1;
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.1s;
+}
+
+.formButton:hover {
+  background: hsl(222, 74%, 71%);
+}
+
+.posts > div {
+  border: 1px solid transparent;
+  border-bottom-color: #ebebeb;
+  transition: all 0.1s;
+  margin-bottom: 2px;
+  padding: 10px 15px;
+}
+
+.posts > div:hover {
+  background: #fafafa;
+}
